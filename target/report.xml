@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="87.722862">
+<testcase classname="Login page verification" name="to check login in store" time="73.086591">
+<system-out><![CDATA[Given enter the browser and page............................................passed
+When user enter the "zzzmukila@gmail.com" and "mukil123"....................passed
+Then user click login button................................................passed
+Then user verify the login..................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Login page verification" name="to check login in store 2" time="14.636271">
+<system-out><![CDATA[Given enter the browser and page............................................passed
+When user enter the "mukil@gmail.com" and "lavan123"........................passed
+Then user click login button................................................passed
+Then user verify the login..................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
